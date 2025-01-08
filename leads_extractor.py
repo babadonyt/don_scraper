@@ -1,5 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
+print("Script started")
+print("Script started")
 
 # Base URL of the website you want to scrape
 base_url = 'https://example.com/leads?page='
